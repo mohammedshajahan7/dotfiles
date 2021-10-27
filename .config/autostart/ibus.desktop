@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Settings;
+Comment[en_US]=ibus input
+Comment=ibus input
+Exec=ibus-daemon -rdx
+GenericName[en_US]=
+GenericName=
+Icon=ibus-setup
+Keywords=keyboard;input;
+MimeType=
+Name[en_US]=ibus
+Name=ibus
+NotShowIn=GNOME;Unity;
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-Desktop-File-Install-Version=0.24
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-Ubuntu-Gettext-Domain=ibus10
